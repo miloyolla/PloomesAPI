@@ -1,0 +1,6 @@
+@Ploomes_HostAddress = http://localhost:5098
+
+GET {{Ploomes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
